@@ -1,0 +1,20 @@
+{
+  "name": "ctu-buddy-rev-3",
+  "version": "1.0.0",
+  "description": "ctu buddy app",
+  "main": "script.js",
+  "scripts": {
+    "start": "node script.js",
+    "dev": "nodemon script.js"
+  },
+  "author": "Nicolette Mashaba",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.19.2",
+    "multer": "^1.4.5-lts.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
